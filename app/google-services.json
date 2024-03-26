@@ -1,22 +1,40 @@
 {
   "project_info": {
-    "project_number": "885959185582",
-    "firebase_url": "https://ktquizz-default-rtdb.firebaseio.com",
-    "project_id": "ktquizz",
-    "storage_bucket": "ktquizz.appspot.com"
+    "project_number": "188054086180",
+    "project_id": "ktquiz-a752b",
+    "storage_bucket": "ktquiz-a752b.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:885959185582:android:02cd365b3a900df609c93f",
+        "mobilesdk_app_id": "1:188054086180:android:f861bec833fb807b10eeb1",
         "android_client_info": {
-          "package_name": "com.example.ktquizz"
+          "package_name": "com.kLoc.ktquizz1"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAewfLrA11-oPPcWOhE66zv8Yc0EF-Flhc"
+          "current_key": "AIzaSyDD-WWYEsOX40HpcKkMJfqIhM0ZwTVgpMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188054086180:android:ebc8bd7abcd2078110eeb1",
+        "android_client_info": {
+          "package_name": "com.kloc.ktadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD-WWYEsOX40HpcKkMJfqIhM0ZwTVgpMY"
         }
       ],
       "services": {
